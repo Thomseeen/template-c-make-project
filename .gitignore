@@ -1,0 +1,6 @@
+# C build artifacts
+
+*.o
+*.d
+
+template-c-make-project
